@@ -67,7 +67,18 @@ El español tiene 9 tipos de palabras:
 - **Preposición** Una palabra que se usa para mostrar la relación entre un nombre o pronombre y otra para parte de la oración. Enlazan. 
 - **Conjunción** Se usan para conectar palabras y frases dentro de las oraciones. 
 - **Interjección** Una palabra usada para exoresar emoci´on repentina, no tiene conexción gramatical con el resto de la oración. 
-
+**Concordancia verbal y de género**
+## Signos de puntuación
+### Coma
+Es hora de comer niños.
+Es hora de comer, niños.
+### El punto
+Era una paloma- punto y coma-; se quedó sin nido -punto y seguido-. Pobre animal -punto y final-.
+- Los titulos no llevan punto
+- los slogan no llevan punto
+- las listas enumeradas no llevan punto 
+- no se escriben punto al final de interrogación y/o admiración. 
+- se coloca fuera de las com,illas, paréntesis, raya o corchetes.
 
 
 
